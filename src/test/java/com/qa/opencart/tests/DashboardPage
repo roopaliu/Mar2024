@@ -1,0 +1,9 @@
+publuc class DashboardPage{
+    public void dashboardMethods(){
+        System.out.println("Inside dashborda");
+    }
+
+public void gotoHamburg(){
+System.out.println("Navigating to Hamburg");
+}
+}
